@@ -1,1 +1,0 @@
-console.log('JR Academy site loaded');

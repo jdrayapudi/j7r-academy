@@ -1,8 +1,0 @@
-
-body{font-family:Arial,sans-serif;margin:0;line-height:1.6}
-header{background:#071b3b;color:white;padding:60px 20px;text-align:center}
-.container{max-width:1100px;margin:auto;padding:20px}
-.btn{background:#1f6fff;color:white;padding:12px 20px;text-decoration:none;border-radius:6px}
-.cards{display:flex;gap:20px;flex-wrap:wrap}
-.card{border:1px solid #ddd;padding:20px;flex:1;min-width:220px}
-footer{text-align:center;padding:20px;background:#f4f4f4}
