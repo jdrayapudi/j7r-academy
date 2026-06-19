@@ -1,2 +1,11 @@
-# j7r-academy
-JR Academy is a healthcare-focused AI capability development platform helping educators, clinicians, researchers, and institutions build AI literacy, readiness, leadership, and innovation for an AI-enabled future.
+# JR Academy
+
+Static GitHub Pages website.
+
+## Deploy
+1. Create GitHub repository named jr-academy
+2. Upload all files
+3. Settings > Pages > Deploy from Branch > main > root
+
+Contact Form:
+https://forms.gle/sCDDDd46UFmxkT5k8
